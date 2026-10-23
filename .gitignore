@@ -1,0 +1,39 @@
+# ====================================================
+# RedM Fixer - Closed Source Distribution Repository
+# All Source Code & Build Artifacts are Strictly Ignored
+# ====================================================
+
+# C# / .NET Source Code
+*.cs
+*.xaml
+*.csproj
+*.sln
+*.user
+*.suo
+
+# Project Directories & Assets
+Resources/
+bin/
+obj/
+Output/
+
+# Build & Automation Scripts
+*.bat
+*.ps1
+*.cmd
+crash.log
+
+# IDE & Editor Files
+.vs/
+.vscode/
+.idea/
+
+# OS Generated
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Explicit Whitelist: Only Documentation & Licensing
+!README.md
+!LICENSE
+!.gitignore
