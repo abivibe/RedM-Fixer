@@ -27,8 +27,6 @@
 ### 🛠️ Çözdüğü Hatalar
 - **Sunucu & NUI Önbellek Hataları:** Sunucuya bağlanırken yaşanan sonsuz yükleme takılmaları (*Downloading Resources* döngüsü), `Failed to fetch resource` hataları ve bozuk envanter/menü arayüzleri.
 - **Vulkan & Başlangıç Çökmeleri:** Oyun açılırken karşılaşılan **`ERR_GFX_STATE`** hatası ve Vulkan API render çökmeleri.
-- **Yönetici Yetkisi Hatası:** RedM'in *"RedM does not support running under elevated privileges"* hatası vererek kapanmasını engeller, oyunu standart kullanıcı yetkileriyle başlatır.
-- **Otomatik Dizin Tespiti:** RedM kurulum klasörünü otomatik olarak algılar ve doğrular.
 
 ---
 
@@ -62,8 +60,6 @@
 ### 🛠️ Errors It Resolves
 - **Server & NUI Cache Issues:** Infinite loading screens (*Downloading Resources* loop), `Failed to fetch resource` errors, and broken/freezing in-game UI.
 - **Vulkan & Launch Crashes:** The **`ERR_GFX_STATE`** crash and Vulkan API initialization errors on launch.
-- **Elevated Privileges Conflict:** Prevents the *"RedM does not support running under elevated privileges"* error by launching RedM with standard user privileges.
-- **Auto-Detection:** Automatically scans and locates your RedM install path.
 
 ---
 
