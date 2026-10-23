@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🔫 REDM FIXER
+#  REDM FIXER
 ### RedM Sunucu Önbelleği Temizleyici ve Vulkan Çökme Çözücü
 *RedM Server Cache Cleaner & Vulkan Crash Fixer*
 
@@ -21,16 +21,16 @@
 
 # 🇹🇷 Türkçe
 
-## 📌 RedM Fixer Ne İşe Yarar?
+##  RedM Fixer Ne İşe Yarar?
 **RedM Fixer**, Red Dead Redemption 2'nin multiplayer modu olan RedM'de sıkça karşılaşılan önbellek bozulmalarını, sunucuya bağlanırken yaşanan sonsuz yükleme takılmalarını ve Vulkan grafik çökmelerini tek tıkla çözen pratik bir onarım aracıdır.
 
-### 🛠️ Çözdüğü Hatalar
+###  Çözdüğü Hatalar
 - **Sunucu & NUI Önbellek Hataları:** Sunucuya bağlanırken yaşanan sonsuz yükleme takılmaları (*Downloading Resources* döngüsü), `Failed to fetch resource` hataları ve bozuk envanter/menü arayüzleri.
 - **Vulkan & Başlangıç Çökmeleri:** Oyun açılırken karşılaşılan **`ERR_GFX_STATE`** hatası ve Vulkan API render çökmeleri.
 
 ---
 
-## 🔘 Seçenekler
+##  Seçenekler
 
 ### 1. Server Cache Temizliği (*Server Cache Clean*)
 - **Ne Yapar?** `data` alt klasöründeki geçici sunucu önbelleklerini (`server-cache`, `cache`, `nui`, `nui-storage`) temizler.
@@ -42,7 +42,7 @@
 
 ---
 
-## 📥 Kullanım
+##  Kullanım
 1. **[Releases](../../releases/latest)** sayfasından **`RedMFixer.rar`** arşivini indirin ve klasöre çıkartın.
 2. **`RedMFixer.exe`** dosyasını çalıştırın.
 3. Sorununuza göre **Server Cache Temizliği** veya **Vulkan Error Fix** seçeneğini seçip **TEMİZLE** butonuna basın.
@@ -54,16 +54,16 @@
 
 # 🇬🇧 English
 
-## 📌 What Does RedM Fixer Do?
+##  What Does RedM Fixer Do?
 **RedM Fixer** is a straightforward utility designed to resolve cache corruptions, infinite loading loops, and Vulkan render crashes in RedM (Red Dead Redemption 2 multiplayer).
 
-### 🛠️ Errors It Resolves
+###  Errors It Resolves
 - **Server & NUI Cache Issues:** Infinite loading screens (*Downloading Resources* loop), `Failed to fetch resource` errors, and broken/freezing in-game UI.
 - **Vulkan & Launch Crashes:** The **`ERR_GFX_STATE`** crash and Vulkan API initialization errors on launch.
 
 ---
 
-## 🔘 Cleaning Options
+##  Cleaning Options
 
 ### 1. Server Cache Clean
 - **What it does:** Safely wipes temporary server cache files (`server-cache`, `cache`, `nui`, `nui-storage`) in the `data` folder.
@@ -75,7 +75,7 @@
 
 ---
 
-## 📥 How to Use
+##  How to Use
 1. Download **`RedMFixer.rar`** from **[Releases](../../releases/latest)** and extract it.
 2. Run **`RedMFixer.exe`**.
 3. Select **Server Cache Clean** or **Vulkan Error Fix** and click **CLEAN**.
@@ -85,7 +85,7 @@
 
 ---
 
-## 🛡️ Güvenlik ve Virüs Taraması
+##  Güvenlik ve Virüs Taraması
 
 | Kontrol | Değer |
 | :--- | :--- |
