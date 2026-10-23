@@ -45,7 +45,7 @@
 ---
 
 ## 📥 Kullanım
-1. **[Releases](../../releases/latest)** sayfasından **`RedMFixer-v1.0.0-win-x64.zip`** arşivini indirin ve klasöre çıkartın.
+1. **[Releases](../../releases/latest)** sayfasından **`RedMFixer.rar`** arşivini indirin ve klasöre çıkartın.
 2. **`RedMFixer.exe`** dosyasını çalıştırın.
 3. Sorununuza göre **Server Cache Temizliği** veya **Vulkan Error Fix** seçeneğini seçip **TEMİZLE** butonuna basın.
 4. Temizlik bittiğinde **"Evet, Başlat"** diyerek oyuna girebilirsiniz.
@@ -80,7 +80,7 @@
 ---
 
 ## 📥 How to Use
-1. Download **`RedMFixer-v1.0.0-win-x64.zip`** from **[Releases](../../releases/latest)** and extract it.
+1. Download **`RedMFixer.rar`** from **[Releases](../../releases/latest)** and extract it.
 2. Run **`RedMFixer.exe`**.
 3. Select **Server Cache Clean** or **Vulkan Error Fix** and click **CLEAN**.
 4. Once completed, click **"Yes, Launch"** to jump into RedM.
@@ -93,10 +93,10 @@
 
 | Kontrol | Değer |
 | :--- | :--- |
-| **Dosya** | `RedMFixer-v1.0.0-win-x64.zip` |
-| **Boyut** | `57.6 MB` |
+| **Dosya** | `RedMFixer.rar` |
+| **Boyut** | `48.7 MB` |
 | **Tarama** | ✅ Microsoft Defender: **TEMİZ (0 Tehdit)** |
-| **SHA-256** | `C49891A8EFEB29D059D53649587BB553A2B79DACE2F1AD58092D0128EADA926D` |
+| **SHA-256** | `C0203F6D32C6CF9E0BD7CC51B2E93EE8555D8D6678DF4E909670D7A84B33DA6B` |
 
 ---
 
